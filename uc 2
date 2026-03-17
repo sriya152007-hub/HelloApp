@@ -1,0 +1,10 @@
+public class DisplayName {
+
+    public static void main(String[] args) {
+
+        String name = args[0];   // taking command line argument
+
+        System.out.println("Hello " + name);
+
+    }
+}
